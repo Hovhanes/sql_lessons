@@ -1,0 +1,71 @@
+Research
+####################################################################
+SQL Order By
+Case
+SQL Aliases
+###################################################################
+functions
+Count
+Min, on stiring
+Max, on string
+Avg
+Sum
+####################################################################
+round
+ceiling
+rand
+########################################
+lower
+upper
+concat
+substring, substr, mid
+reverse
+replace
+########################################
+current_timestamp
+curdate
+current_time
+
+date
+day
+hour
+minute
+second
+
+month
+monthname
+
+week
+weekday
+
+year
+yearweak
+
+
+
+
+lurj Task 2.
+
+2.1) et exacd users table-in arandz jnjel avelacnum es hetevyal columner@
+created - (create anelu timestamp-@ avtomat get es anum)
+updated - (update aneluc timestamp@ avtomat tarmacvuma)
+salary - (amsekan ashxatavardz@ int)
+bonus - (amsekan stacac bonus@)
+
+2.2) select es bolor en user-nerin voronq unen 100000-ic qich salary
+
+2.3) select es bolor en user-nerin voronq unen 1000000-ic avel salary
+
+2.4) select es anum en user-nerin ovqer unen 500000-1000000 ashxatavardz
+
+2.5) select es anum bolor en user-nerin um salary-in null chi
+
+2.6) select es anum en user nerin um anun@ sksuma "a" tarov
+
+2.7) select es anum en user nerin um anvan mejtexum ka "a" tar
+
+2.8) select es anum en user nerin um anvan verjum ka "a" tar
+
+2.9) select es anum en user-nerin um age-@ havasar chi 10, 15, 20
+
+2.10) research es anum u tnayinum grum incha anum DISTINCT-@

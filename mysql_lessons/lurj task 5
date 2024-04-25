@@ -1,0 +1,32 @@
+Reasearch
+
+SQL Union
+SQL Left Join
+SQL Right Join
+SQL Inner Join
+cross join - cartesian product
+SQL Self Join
+
+one to one
+one to many
+many to many
+
+
+select, where, orderby on joins
+FOREIGN KEY - Prevents actions that would destroy links between tables
+
+lurj task 5
+
+5.1) hin table-d u DB-n toxum es nuyn dzev, u nor DB es sarqum nor tablner-ov mej@,
+nor tablener@ unenum en primary_key aysinqn id
+unenum en foreign key, kapvac en linum users table-i het
+
+additional details
+sax tablener@ sarqm es file-erov, amen table-i hamar file es sarqum u @tex grum sql code-d,
+heto python-ov run es anum sarquma table-ner@
+
+
+5.2) user_details - vortex klni boy, qash ev ayl fizikakan tvyalner (one to one-ov irar kapac)
+5.3) cars - vortex klni sax avtoi tvyalner@ (one to many kapov kapvac)
+5.4) user_mobiles - bolor heraxosi tvyalner@ (one to many kapov kapvac)
+5.5) user_finance = ashxatavardzer finansneri tvyalner@ (one to one kapov kapvac)

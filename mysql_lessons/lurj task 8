@@ -1,0 +1,32 @@
+select, where, orderby on joins
+FOREIGN KEY - Prevents actions that would destroy links between tables
+######################################################################
+SQL Select Into
+SQL Insert Into Select
+SQL Stored Procedures
+#####################################################################
+transaction (esi lav ushadir nayi)
+ACID Transactions
+#####################################################################
+
+lurj task 8
+miat nor DB es sarqum orinak finances, u 4 table mej@
+8.1.  users - firstname lastename, id ..etc
+8.2. billing_info - address, postal_code ... etc 1-1 with users
+8.3. card - carti tver@ hashvehamar@, inchqan po ka vren 1-many with ussers(aysinqn mi user@ kara shat qart unena)
+8.4. transactions - sovorakan table-a ira mej pahuma poxancumneri masin info,
+orinak
+
+Date, money, from_user(ova poxancel ir id-in), to_user(uma poxancel ira id-in), is_success (bool, cuyca talis success-a exel poxancum@ te che)
+
+
+8.5. sarqum es inputner vori mijocov poxancum en anum, nshum en ova poxancox@, uma poxancum, inchqan gumar, vor cartic
+8.6. et infon inputneric vercnum es u poxancoxi qartic hanum es pox@ u avelacnum um poxancela,
+ete etqan pox chexav errora talis, ete @ntacqum python error stacav mi ban kisat mnac rollback es anum.
+dra hamar es sax query-ner@ anum es transaction-ov,
+
+* ete poxancum@ success exav transactions table-um avelacnum es sax data success statusov
+* ete poxancum@ faila-a linum eli sax datan avelacnum es transactions table-um bayc status@ fail u pox@ ches hanum poxancoxic
+
+
+

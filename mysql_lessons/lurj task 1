@@ -1,0 +1,74 @@
+Research
+
+create db
+drop db
+create table
+drop table
+Exists
+
+alter table
+ 1. add column
+ 2. drop column
+ 3. rename column name TO first_name
+ 4. rename table name TO first_name
+ 5. modify phone str
+
+insert into
+
+INSERT INTO Customers (CustomerName, ContactName, Address, City, PostalCode, Country)
+VALUES ('Cardinal', 'Tom B. Erichsen', 'Skagen 21', 'Stavanger', '4006', 'Norway');
+
+#####################################################################
+Data Types
+
+char
+varchar
+text
+byte
+enum
+#####################################################################
+all by default signed![](../../../../../var/folders/t1/zfnxt3zn2211_ndv5yfn7xt00000gn/T/TemporaryItems/NSIRD_screencaptureui_amEmla/Screenshot 2024-02-26 at 19.28.57.png)
+
+tinyint
+smallint
+mediumint
+bigint
+int(integer)
+float
+bool
+#####################################################################
+date
+datetime
+timestamp
+time
+year
+DEFAULT CURRENT_TIMESTAMP
+#####################################################################
+create if not exist
+drop if exist
+isnert into without columns
+
+
+
+lurj Task 1.
+
+1.1 sarqum es my_app DB u meej@ sarqum users table
+
+1.2 sarqum es users table coolumn-ner
+firstname (string)
+last_name (string)
+email (string, unique, vor nuyn mail-ov 2 hat sarqen error ta)
+age (int)
+country (cucakov 3 erkir lini, ete et 3-ic baci urish ban gren error ta)
+
+1.3 insert ara 10 user tarber erkrnerov data-ov (mekin insert anelu query-in kuxarkes)
+
+1.4 select ara sax user-nerin
+
+1.5 select ara sax user-nerin hayastan country-ov
+
+1.6. update ara user-neric meki anun@
+
+1.7 delete ara user-neric mekin
+
+1.8 delete ara bolor user-nerin vrastanic

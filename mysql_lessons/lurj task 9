@@ -1,0 +1,21 @@
+Research
+
+variables
+regex?
+engines
+SQL Null Functions?
+injection?
+bulk Create
+
+lurj task 9
+
+miat script es grum vor for kfra u kstexci 100.000 row bolor table-nerum (users, billing_info, card),
+script-d petqa skzbic u time now-n vercni, miatel verjum vercni u hani iraric, aysinqn gri te qani varkyana tevel.
+scripid @ntacqum tenc mi 1000 tvyal avelacnel@ mek print ara te inchqan data-avelacel.
+9.1. script-d sarqum es sovorakan for-erov
+9.2. research es anum bulk Create-@ u pordzum dranov anes, aysinqn tenc 100 hat kam hazar hat data es havaqum u nor create anum miangamic
+9.3. pordzer es anum vor optimal chap gtnes inchqan data miangamic create anes, orinak 100, 1000 te 10.000
+9.4. hamematum es aragutyunner@ 2 scripteri, u bulk create-i tarber chaper@, hamemamatutyan ardzyunqner@ grum es tnayinum
+9.5. sax scripterumd unenum es logger jamanak@ mekel orinak 100, 1000 kam 10.000-@ data avelacneluc heto vor file-um log ani,
+vor scriptd run anes joges ashxatuma te kaxela
+

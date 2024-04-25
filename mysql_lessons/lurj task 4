@@ -1,0 +1,26 @@
+lurj task 4
+
+SQL
+4.1) users table-um avelacra boy, qash, achqeri guyn,
+
+4.2) avto, avtoi hamar, model, tiv
+
+4.3) heraxosi hamar, operator, mobile_country
+
+
+Python
+4.4) nayi pip-@ incha mi 2 package install ara
+
+4.5) nayi virtualenv-@ incha, install ara motd pordzi
+
+4.6) nayi requirments.txt. incha vonca ogtagorcvum
+
+4.7) nayi requirments.txt freeze-@ incha vonc en ogtagorcum, pordzi miat
+
+4.8)  nuyn package-ner@ poetry-ov install ara
+
+4.9) nuyn package-ner@ pipenv-ov install ara
+
+4.10) gri poetry vs pipenv vs virtualenv
+
+4.11) nayi inch packeage-ov en mysql-in kpnum python-um, u kpi sql-id miat example query-i run ara

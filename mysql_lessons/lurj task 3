@@ -1,0 +1,54 @@
+Reasearch
+
+###################################################################
+SQL Group By
+group by multiple columns
+SQL Having
+####################################################################
+SQL Update
+SQL Delete
+####################################################################
+Update same field + new thing
+#####################################################################
+Limit, offset - pagination
+subquery
+Any
+All
+#########################################################################
+PRIMARY KEY - A combination of a NOT NULL and UNIQUE. Uniquely identifies each row in a table
+AUTO_INCREMENT
+########################################################################
+CREATE INDEX index_name ON table_name (column1, column2, ...);
+DROP INDEX index_name ON table_name
+CREATE UNIQUE INDEX index_name ON table_name (column1, column2, ...);
+#########################################################################
+
+
+
+
+
+lurj task 3
+
+3.1) select ara sax user-neri count@
+
+3.2) select ara userneri count-@ Hayastanic
+
+3.3) hashvi sax userneri ashxatavardzeri gumar@
+
+3.4) hashvi hayastanic user-neri mijin ashxatavardz@
+
+3.5) Order ara user-nerin @st anunneri
+
+3.6) order ara Vrastani user-nerin @st ashxatavardzi achman
+
+3.7) order ara Vrastani user-nerin @st ashxatavardzi nvazman
+
+3.8) Group by ara user-nerin u hashvi count@, senc result em uzum tenam
+
+
+example
+
+Country,      users_count
+Hayastan,   3
+vrastan,      7
+....
